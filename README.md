@@ -31,3 +31,7 @@ Por ser um projeto com ReactJS, há a necessidade do NodeJS. Após, basta abrir 
 ## Deploy da Aplicação com Surge :dash:
 
 > http://astromatch-tatiana.surge.sh/
+
+## Gif:
+
+<img src="./astromatch-tatiana.gif"/>
