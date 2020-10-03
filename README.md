@@ -4,7 +4,7 @@
 > Status do Projeto: Em desenvolvimento :warning:
 
 ## Sobre
-Esse foi um dos primeiros projetos individuais que fiz em React.
+Esse foi um dos primeiros projetos individuais que fiz em React no bootcamp da Labenu.
 Ele consiste em uma plataforma que permite o usuárior aprovar (:heart: dar match) ou desaprovar (:broken_heart: não dar match) algum perfil vindo da API. Caso o perfil da API também tenha dado match no usuário, o aplicativo mostra uma mensagem avisando do match e salvando o perfil em uma lista.
 
 Já que se trata de perfis de uma API, ou seja, perfis limitados, temos a possibilidade de excluir todos os perfis aprovados da lista e retomar desde o início as opões de matchs.
@@ -18,7 +18,7 @@ Já que se trata de perfis de uma API, ou seja, perfis limitados, temos a possib
 
 :art: Para a estilização, utilizou-se a biblioteca STYLED COMPONENTS.
 
-      ---> POSSIBILIDADE DE USAR MATERIAL UI FUTURAMENTE
+    
 
 ## Instruções para rodar
 Por ser um projeto com ReactJS, há a necessidade do NodeJS. Após, basta abrir o terminal e navegar até o repositório clonado e rodar:
