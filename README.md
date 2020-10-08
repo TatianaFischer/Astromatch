@@ -1,4 +1,4 @@
-# Astromatch
+# Astromatch - projeto front-end
 ## Tinder application clone
 
 > Status do Projeto: Em desenvolvimento :warning:
